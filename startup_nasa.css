@@ -1,0 +1,48 @@
+body{
+	/*background: lightblue;*/
+	background: url(http://www.martingrandjean.ch/wp-content/uploads/2016/05/Airports-network.gif);
+/*background: url(https://img.clipartfest.com/09377606e793bce2b27e9d8c244a907f_blue-pattern-background-tumblr-clouds-clipart-background-tumblr_1920-1080.jpeg);  */
+	background-size: cover;
+	background-position: center;
+	font-family: lato;
+	color: white;
+
+}
+
+html{
+	height: 100%;
+}
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgb(0,0,0,0.1)
+				 ;
+
+}
+/*
+h1, h3{
+	color: white;
+}*/
+
+h1{
+	/*color: white;*/
+	font-weight: 700;
+	font-size: 5em;
+}
+
+h3{
+
+	font-size: 1.75em;
+}
+
+hr{
+	width:400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+
+}
+
+
